@@ -17,6 +17,6 @@ A secure and simple CLI tool for encrypting and decrypting files using the `XCha
 Clone this repository and build the project using [Cargo](https://doc.rust-lang.org/cargo/):
 
 ```bash
-git clone https://github.com/farhnkrnapratma/ezza_2903.git
-cd ezza_2903
+git clone https://github.com/farhnkrnapratma/ezza-2903.git
+cd ezza-2903
 cargo build --release
